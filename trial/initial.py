@@ -10,3 +10,4 @@ def greet(name):
 
 # Error: name 'greet' is not defined
 greet('Atsedemariam')
+ 
